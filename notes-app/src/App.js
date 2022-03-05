@@ -9,19 +9,19 @@ const App = () =>{
         {
             id: nanoid(),
             title: 'This is my first note',
-            description: 'Hello react notes',
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque egestas congue quisque egestas diam in arcu. ',
             date: '15.04.2021'
         },
         {
             id: nanoid(),
             title: 'This is my second note',
-            description: 'Hello vue notes',
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua',
             date: '13.04.2021'
         },
         {
             id: nanoid(),
             title: 'This is my third note',
-            description: 'Hello angular notes',
+            description: 'Suscipit tellus mauris a diam maecenas sed enim ut sem.',
             date: '11.04.2021'
         },
 
